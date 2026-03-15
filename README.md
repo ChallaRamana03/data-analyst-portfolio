@@ -93,6 +93,6 @@ Aspiring **Data Analyst** with skills in **Excel, SQL, and Power BI**, focused o
 
 ## Contact
 
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn: (www.linkedin.com/in/challa-ramana-57a849352)
 
-GitHub: (Add your GitHub profile link here)
+GitHub: (https://github.com/ChallaRamana03)
