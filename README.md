@@ -80,8 +80,8 @@ This project analyzes shopping mall sales data to identify revenue trends and ca
 
 data-analyst-portfolio
 │
-├── Project-01-Retail-Sales
-├── Project-02-Shopping-Mall-Sales
+├── Project-01-Retail_Sales_Performance_Analysis
+├── Project-02-Customer-Shopping-Behavior_Analysis
 
 ---
 
