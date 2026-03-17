@@ -78,7 +78,7 @@ Below is the Power BI dashboard created for this project.
 
 ## Project Folder Structure
 
-Customer-Shopping-Sales-Analysis
+Customer-Shopping-Behavior-Analysis
 
 01-Dataset → dataset files
 02-Excel → Excel analysis and dashboard
