@@ -25,7 +25,7 @@ These projects demonstrate my ability to clean data, analyze business problems, 
 
 # Projects
 
-## 1️⃣ Retail Sales Dashboard
+## 1️⃣ Retail_Sales_Performance_Analysis
 
 ### Project Overview
 
@@ -51,7 +51,7 @@ This project analyzes retail sales data to understand sales performance, categor
 
 ---
 
-## 2️⃣ Shopping Mall Sales Dashboard
+## 2️⃣ Customer-Shopping-Behavior_Analysis
 
 ### Project Overview
 
